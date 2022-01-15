@@ -1,0 +1,14 @@
+
+.searchBtn{
+    height: 30px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 16px;
+    color: #90AACB;
+    cursor: pointer;
+    border: none;
+}
+
+.searchBtn:hover{
+    background-color: black;
+}
